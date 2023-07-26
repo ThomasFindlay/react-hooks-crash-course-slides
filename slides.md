@@ -55,7 +55,7 @@ $ npm run dev
   <ul>
     <li>Full-Stack Web & Mobile Developer with 10 years of programming experience</li>
     <li>Co-Owner of Findlay Web Tech</li>
-    <li>Mentor & Consultant at Codementor.io</li>
+    <li>Mentor & Consultant at Codementor.io and Toptal.com</li>
     <li>The author of "React - The Road To Enterprise" & "Vue - The Road To Enterprise" books</li>
     <li>Technical Writer for Telerik and The Road To Enterprise blogs</li>
   </ul>
@@ -97,10 +97,13 @@ position: center
 
 # Why Hooks?
 
-- Simplified code
-- Easier reusability of stateful logic
-- Composability
-- Testability
+<div>
+<div>Simplified code</div>
+<div>Easier reusability of stateful logic</div>
+<div>Composability</div>
+<div>Testability</div>
+</div>
+
 
 <Logo />
 
